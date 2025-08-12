@@ -1,0 +1,2 @@
+# Paradigmas_de_Linguagens_de_Programação_em_Python
+Ciências da computação
