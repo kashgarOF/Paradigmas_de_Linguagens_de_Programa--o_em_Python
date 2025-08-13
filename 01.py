@@ -6,7 +6,7 @@ def pergunta_sim_nao(pergunta):
         elif resposta in ("não", "nao", "n"):
             return "não"
         else:
-            print('Não entendi sua resposta, por favor use "sim" ou "não"')
+            print('Não entendi sua resposta, por favor use "sim" ou respostas afirmativas ou "não".')
 
 
 #codigo principal
